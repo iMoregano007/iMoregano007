@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, Gaurav this side <br>🔭 I'm Software engineer specializing in Android development<br>👯 proficient in Java<br>🤝 I’m upskilling myself to stay Valuable<br>🌱 I’m currently learning Data Structures and Algorithms and Android Development<br>💬 Ask me about Programming <br>⚡ Fun fact - "Software developers are like modern-day wizards, turning caffeine into code."
+👋 Hi, Gaurav this side <br>🔭 I'm Software engineer specializing in Android development<br>🤝 I’m upskilling myself to stay Valuable<br>🌱 I’m currently learning Data Structures and Algorithms and Android Development<br>💬 Ask me about Programming <br>⚡ Fun fact - "Software developers are like modern-day wizards, turning caffeine into code."
 
 
 ## 🌐 Socials:
